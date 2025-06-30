@@ -1,5 +1,5 @@
 {
-"count": 1492,
+"count": 1493,
 "entries": [
     {
         "API": "Cat Facts",
@@ -907,6 +907,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.abibliadigital.com.br/en",
+        "Category": "Books"
+    },
+    {
+        "API": "Big Book API",
+        "Description": "The Big Book API allows you to semantically search, filter, sort, and recommend books",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bigbookapi.com",
         "Category": "Books"
     },
     {
